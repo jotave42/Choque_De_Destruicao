@@ -1,0 +1,2 @@
+C:\unity\Testes\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+C:\unity\Choque_De_Demolicao\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache

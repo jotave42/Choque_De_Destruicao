@@ -100,6 +100,7 @@ public class MapaInfinito : MonoBehaviour {
 							NovoChao.transform.Find ("c4").GetComponent<MapaInfinito> ().cria = false;// desabilita o complementar
 						if (gameObject.name.CompareTo ("c4") == 0)
 							NovoChao.transform.Find ("c2").GetComponent<MapaInfinito> ().cria = false;// desabilita o complementar
+						Random.seed= System.DateTime.Now.Millisecond;
 						int NumeroItens = Random.Range(0,15);
 						NovoChao.name=NovoChao.name.Replace ("(Clone)", "");
 						NovoChao.GetComponent<Spawnar> ().Spawna (NumeroItens);

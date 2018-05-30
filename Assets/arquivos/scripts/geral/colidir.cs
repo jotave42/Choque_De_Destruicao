@@ -9,14 +9,34 @@ public class colidir : MonoBehaviour
 	public int dinheiro;
 	public float boost;
 	// Use this for initialization
+	void SetaVida(bool inimigo)
+	{
+		if(inimigo)
+			vida = Random.Range (-20.0f, -1.0f);
+		else
+			vida = Random.Range (20.0f, 100f);
+	}
+	void SetaPontos()
+	{
+		pontos = Random.Range (1, 101);
+	}
+	void SetaDinheito()
+	{
+		dinheiro = Random.Range (1, 11);
+	}
+	void SetaBoost()
+	{
+		boost = Random.Range (0.1f, 2.0f);
+	}
 	void Start () 
 	{
 		if (this.gameObject.CompareTag ("caixa")) 
 		{
-			vida = Random.Range (1.0f, 100f);
-			pontos = Random.Range (1, 101);
-			dinheiro = Random.Range (1, 11);
-			boost = Random.Range (0.1f, 2.0f);
+			Random.seed= System.DateTime.Now.Millisecond;
+			SetaVida (false);
+			SetaPontos();
+			SetaDinheito ();
+			SetaBoost ();
 
 		}
 	}
@@ -24,12 +44,9 @@ public class colidir : MonoBehaviour
 	{
 		Destroy (gameObject);
 	}
-	public void MandaVida(Collider other,bool inimigo)
+	public void MandaVida(Collider other)
 	{
-		if (inimigo) 
-			other.gameObject.GetComponent<controlePlayer> ().MudaVida (vida * -1);
-		else
-			other.gameObject.GetComponent<controlePlayer> ().MudaVida (vida);
+		other.gameObject.GetComponent<controlePlayer> ().MudaVida (vida);
 	}
 	public void MandaPontos(Collider other)
 	{
@@ -48,26 +65,41 @@ public class colidir : MonoBehaviour
 	{
 		if(other.gameObject.CompareTag("Player"))
 		{
+			Random.seed= System.DateTime.Now.Millisecond;
 			if ((this.gameObject.CompareTag ("vida")))
-				MandaVida (other,false);
-			else if(this.gameObject.CompareTag ("inimigo"))
-				MandaVida (other,true);
-			else if (this.gameObject.CompareTag ("pontos"))
+			{
+				SetaVida (false);
+				MandaVida (other);
+			} 
+			else if (this.gameObject.CompareTag ("inimigo")) 
+			{
+				SetaVida (true);
+				MandaVida (other);
+			} 
+			else if (this.gameObject.CompareTag ("pontos")) 
+			{
+				SetaPontos ();
 				MandaPontos (other);
-			else if (this.gameObject.CompareTag ("dinheiro"))
+			} 
+			else if (this.gameObject.CompareTag ("dinheiro")) 
+			{
+				SetaDinheito ();
 				MandaDinheiro (other);
-			else if (this.gameObject.CompareTag ("boost"))
+			} 
+			else if (this.gameObject.CompareTag ("boost")) 
+			{
 				MandaBoost (other);
+			}
 			else if (this.gameObject.CompareTag ("caixa")) 
 			{
 				int x = Random.Range (0, 5);
 				switch (x)
 				{
 				case 0:
-					MandaVida (other,false);
+					MandaVida (other);
 					break;
 				case 1:
-					MandaVida (other,true);
+					MandaVida (other);
 					break;
 				case 2:
 					MandaPontos (other);
