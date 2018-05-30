@@ -1,0 +1,1010 @@
+Base path: C:/Program Files/Unity/Editor/Data
+Cmd: initializeCompiler
+Cmd: disassembleShader
+  api=5 insize=7233 outsize=7233 ok=1
+Cmd: disassembleShader
+  api=5 insize=7252 outsize=7252 ok=1
+Cmd: disassembleShader
+  api=5 insize=8669 outsize=8669 ok=1
+Cmd: disassembleShader
+  api=9 insize=9216 outsize=9216 ok=1
+Cmd: disassembleShader
+  api=9 insize=8196 outsize=8196 ok=1
+Cmd: disassembleShader
+  api=5 insize=7231 outsize=7231 ok=1
+Cmd: disassembleShader
+  api=5 insize=8648 outsize=8648 ok=1
+Cmd: disassembleShader
+  api=9 insize=9153 outsize=9153 ok=1
+Cmd: disassembleShader
+  api=9 insize=7445 outsize=7445 ok=1
+Cmd: disassembleShader
+  api=9 insize=9559 outsize=9559 ok=1
+Cmd: disassembleShader
+  api=5 insize=8942 outsize=8942 ok=1
+Cmd: disassembleShader
+  api=9 insize=9683 outsize=9683 ok=1
+Cmd: disassembleShader
+  api=9 insize=7489 outsize=7489 ok=1
+Cmd: disassembleShader
+  api=9 insize=9549 outsize=9549 ok=1
+Cmd: disassembleShader
+  api=5 insize=10300 outsize=10300 ok=1
+Cmd: disassembleShader
+  api=9 insize=11141 outsize=11141 ok=1
+Cmd: disassembleShader
+  api=5 insize=10361 outsize=10361 ok=1
+Cmd: disassembleShader
+  api=5 insize=7961 outsize=7961 ok=1
+Cmd: disassembleShader
+  api=5 insize=10279 outsize=10279 ok=1
+Cmd: disassembleShader
+  api=9 insize=11061 outsize=11061 ok=1
+Cmd: disassembleShader
+  api=5 insize=7254 outsize=7254 ok=1
+Cmd: disassembleShader
+  api=9 insize=7681 outsize=7681 ok=1
+Cmd: disassembleShader
+  api=9 insize=6675 outsize=6675 ok=1
+Cmd: disassembleShader
+  api=5 insize=5859 outsize=5859 ok=1
+Cmd: disassembleShader
+  api=5 insize=7233 outsize=7233 ok=1
+Cmd: disassembleShader
+  api=5 insize=9078 outsize=9078 ok=1
+Cmd: disassembleShader
+  api=5 insize=10600 outsize=10600 ok=1
+Cmd: disassembleShader
+  api=5 insize=9194 outsize=9194 ok=1
+Cmd: disassembleShader
+  api=9 insize=9501 outsize=9501 ok=1
+Cmd: disassembleShader
+  api=9 insize=10873 outsize=10873 ok=1
+Cmd: disassembleShader
+  api=5 insize=10579 outsize=10579 ok=1
+Cmd: disassembleShader
+  api=5 insize=6610 outsize=6610 ok=1
+Cmd: disassembleShader
+  api=5 insize=8884 outsize=8884 ok=1
+Cmd: disassembleShader
+  api=9 insize=9559 outsize=9559 ok=1
+Cmd: disassembleShader
+  api=9 insize=7652 outsize=7652 ok=1
+Cmd: disassembleShader
+  api=5 insize=6589 outsize=6589 ok=1
+Cmd: disassembleShader
+  api=5 insize=8863 outsize=8863 ok=1
+Cmd: disassembleShader
+  api=9 insize=9549 outsize=9549 ok=1
+Cmd: disassembleShader
+  api=9 insize=10297 outsize=10297 ok=1
+Cmd: disassembleShader
+  api=9 insize=12703 outsize=12703 ok=1
+Cmd: disassembleShader
+  api=5 insize=12292 outsize=12292 ok=1
+Cmd: disassembleShader
+  api=5 insize=9787 outsize=9787 ok=1
+Cmd: disassembleShader
+  api=5 insize=12210 outsize=12210 ok=1
+Cmd: disassembleShader
+  api=9 insize=12623 outsize=12623 ok=1
+Cmd: disassembleShader
+  api=9 insize=6511 outsize=6511 ok=1
+Cmd: disassembleShader
+  api=5 insize=5984 outsize=5984 ok=1
+Cmd: disassembleShader
+  api=9 insize=6675 outsize=6675 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=4675 outsize=4675 ok=1
+Cmd: disassembleShader
+  api=9 insize=5435 outsize=5435 ok=1
+Cmd: disassembleShader
+  api=5 insize=5196 outsize=5196 ok=1
+Cmd: disassembleShader
+  api=9 insize=5592 outsize=5592 ok=1
+Cmd: disassembleShader
+  api=5 insize=5311 outsize=5311 ok=1
+Cmd: disassembleShader
+  api=9 insize=5744 outsize=5744 ok=1
+Cmd: disassembleShader
+  api=5 insize=5175 outsize=5175 ok=1
+Cmd: disassembleShader
+  api=5 insize=4860 outsize=4860 ok=1
+Cmd: disassembleShader
+  api=9 insize=5886 outsize=5886 ok=1
+Cmd: disassembleShader
+  api=5 insize=4964 outsize=4964 ok=1
+Cmd: disassembleShader
+  api=5 insize=6398 outsize=6398 ok=1
+Cmd: disassembleShader
+  api=9 insize=6906 outsize=6906 ok=1
+Cmd: disassembleShader
+  api=5 insize=6264 outsize=6264 ok=1
+Cmd: disassembleShader
+  api=9 insize=6754 outsize=6754 ok=1
+Cmd: disassembleShader
+  api=5 insize=6015 outsize=6015 ok=1
+Cmd: disassembleShader
+  api=9 insize=6486 outsize=6486 ok=1
+Cmd: disassembleShader
+  api=9 insize=5788 outsize=5788 ok=1
+Cmd: disassembleShader
+  api=5 insize=4569 outsize=4569 ok=1
+Cmd: disassembleShader
+  api=9 insize=5604 outsize=5604 ok=1
+Cmd: disassembleShader
+  api=5 insize=4299 outsize=4299 ok=1
+Cmd: disassembleShader
+  api=9 insize=5260 outsize=5260 ok=1
+Cmd: disassembleShader
+  api=5 insize=4403 outsize=4403 ok=1
+Cmd: disassembleShader
+  api=5 insize=5759 outsize=5759 ok=1
+Cmd: disassembleShader
+  api=9 insize=6312 outsize=6312 ok=1
+Cmd: disassembleShader
+  api=5 insize=5625 outsize=5625 ok=1
+Cmd: disassembleShader
+  api=9 insize=6103 outsize=6103 ok=1
+Cmd: disassembleShader
+  api=5 insize=7899 outsize=7899 ok=1
+Cmd: disassembleShader
+  api=9 insize=8791 outsize=8791 ok=1
+Cmd: disassembleShader
+  api=5 insize=8094 outsize=8094 ok=1
+Cmd: disassembleShader
+  api=9 insize=8916 outsize=8916 ok=1
+Cmd: disassembleShader
+  api=9 insize=6900 outsize=6900 ok=1
+Cmd: disassembleShader
+  api=5 insize=6744 outsize=6744 ok=1
+Cmd: disassembleShader
+  api=5 insize=8977 outsize=8977 ok=1
+Cmd: disassembleShader
+  api=9 insize=9415 outsize=9415 ok=1
+Cmd: disassembleShader
+  api=9 insize=7728 outsize=7728 ok=1
+Cmd: disassembleShader
+  api=9 insize=9540 outsize=9540 ok=1
+Cmd: disassembleShader
+  api=9 insize=7596 outsize=7596 ok=1
+Cmd: disassembleShader
+  api=5 insize=4695 outsize=4695 ok=1
+Cmd: disassembleShader
+  api=9 insize=5742 outsize=5742 ok=1
+Cmd: disassembleShader
+  api=9 insize=7656 outsize=7656 ok=1
+Cmd: disassembleShader
+  api=9 insize=5901 outsize=5901 ok=1
+Cmd: disassembleShader
+  api=5 insize=4674 outsize=4674 ok=1
+Cmd: disassembleShader
+  api=5 insize=6780 outsize=6780 ok=1
+Cmd: disassembleShader
+  api=9 insize=7629 outsize=7629 ok=1
+Cmd: disassembleShader
+  api=5 insize=7199 outsize=7199 ok=1
+Cmd: disassembleShader
+  api=9 insize=8157 outsize=8157 ok=1
+Cmd: disassembleShader
+  api=5 insize=7312 outsize=7312 ok=1
+Cmd: disassembleShader
+  api=9 insize=8282 outsize=8282 ok=1
+Cmd: disassembleShader
+  api=5 insize=7178 outsize=7178 ok=1
+Cmd: disassembleShader
+  api=5 insize=5734 outsize=5734 ok=1
+Cmd: disassembleShader
+  api=5 insize=7918 outsize=7918 ok=1
+Cmd: disassembleShader
+  api=9 insize=8382 outsize=8382 ok=1
+Cmd: disassembleShader
+  api=5 insize=8113 outsize=8113 ok=1
+Cmd: disassembleShader
+  api=5 insize=5713 outsize=5713 ok=1
+Cmd: disassembleShader
+  api=5 insize=7897 outsize=7897 ok=1
+Cmd: disassembleShader
+  api=9 insize=8355 outsize=8355 ok=1
+Cmd: disassembleShader
+  api=5 insize=10002 outsize=10002 ok=1
+Cmd: disassembleShader
+  api=9 insize=9065 outsize=9065 ok=1
+Cmd: disassembleShader
+  api=5 insize=10197 outsize=10197 ok=1
+Cmd: disassembleShader
+  api=9 insize=9190 outsize=9190 ok=1
+Cmd: disassembleShader
+  api=5 insize=9981 outsize=9981 ok=1
+Cmd: disassembleShader
+  api=9 insize=9024 outsize=9024 ok=1
+Cmd: disassembleShader
+  api=5 insize=7861 outsize=7861 ok=1
+Cmd: disassembleShader
+  api=9 insize=8524 outsize=8524 ok=1
+Cmd: disassembleShader
+  api=9 insize=6765 outsize=6765 ok=1
+Cmd: disassembleShader
+  api=5 insize=5641 outsize=5641 ok=1
+Cmd: disassembleShader
+  api=5 insize=7840 outsize=7840 ok=1
+Cmd: disassembleShader
+  api=5 insize=7798 outsize=7798 ok=1
+Cmd: disassembleShader
+  api=9 insize=7346 outsize=7346 ok=1
+Cmd: disassembleShader
+  api=9 insize=9207 outsize=9207 ok=1
+Cmd: disassembleShader
+  api=9 insize=7467 outsize=7467 ok=1
+Cmd: disassembleShader
+  api=9 insize=9332 outsize=9332 ok=1
+Cmd: disassembleShader
+  api=5 insize=9924 outsize=9924 ok=1
+Cmd: disassembleShader
+  api=5 insize=4696 outsize=4696 ok=1
+Cmd: disassembleShader
+  api=5 insize=6121 outsize=6121 ok=1
+Cmd: disassembleShader
+  api=9 insize=6333 outsize=6333 ok=1
+Cmd: disassembleShader
+  api=9 insize=5635 outsize=5635 ok=1
+Cmd: disassembleShader
+  api=9 insize=6512 outsize=6512 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=1400 outsize=1400 ok=1
+Cmd: disassembleShader
+  api=9 insize=2606 outsize=2606 ok=1
+Cmd: disassembleShader
+  api=5 insize=973 outsize=973 ok=1
+Cmd: disassembleShader
+  api=9 insize=2379 outsize=2379 ok=1
+Cmd: disassembleShader
+  api=5 insize=1450 outsize=1450 ok=1
+Cmd: disassembleShader
+  api=9 insize=3050 outsize=3050 ok=1
+Cmd: disassembleShader
+  api=5 insize=973 outsize=973 ok=1
+Cmd: disassembleShader
+  api=9 insize=2379 outsize=2379 ok=1
+Cmd: disassembleShader
+  api=5 insize=1400 outsize=1400 ok=1
+Cmd: disassembleShader
+  api=9 insize=2606 outsize=2606 ok=1
+Cmd: disassembleShader
+  api=5 insize=1877 outsize=1877 ok=1
+Cmd: disassembleShader
+  api=9 insize=3277 outsize=3277 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=3675 outsize=3675 ok=1
+Cmd: disassembleShader
+  api=9 insize=4248 outsize=4248 ok=1
+Cmd: disassembleShader
+  api=5 insize=5216 outsize=5216 ok=1
+Cmd: disassembleShader
+  api=9 insize=5897 outsize=5897 ok=1
+Cmd: disassembleShader
+  api=5 insize=5249 outsize=5249 ok=1
+Cmd: disassembleShader
+  api=9 insize=5947 outsize=5947 ok=1
+Cmd: disassembleShader
+  api=5 insize=5195 outsize=5195 ok=1
+Cmd: disassembleShader
+  api=9 insize=5879 outsize=5879 ok=1
+Cmd: disassembleShader
+  api=5 insize=5287 outsize=5287 ok=1
+Cmd: disassembleShader
+  api=9 insize=5851 outsize=5851 ok=1
+Cmd: disassembleShader
+  api=5 insize=5320 outsize=5320 ok=1
+Cmd: disassembleShader
+  api=9 insize=5901 outsize=5901 ok=1
+Cmd: disassembleShader
+  api=5 insize=5266 outsize=5266 ok=1
+Cmd: disassembleShader
+  api=9 insize=5833 outsize=5833 ok=1
+Cmd: disassembleShader
+  api=5 insize=3696 outsize=3696 ok=1
+Cmd: disassembleShader
+  api=9 insize=4266 outsize=4266 ok=1
+Cmd: disassembleShader
+  api=5 insize=3717 outsize=3717 ok=1
+Cmd: disassembleShader
+  api=9 insize=4316 outsize=4316 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=5763 outsize=5763 ok=1
+Cmd: disassembleShader
+  api=9 insize=6692 outsize=6692 ok=1
+Cmd: disassembleShader
+  api=5 insize=7760 outsize=7760 ok=1
+Cmd: disassembleShader
+  api=9 insize=8288 outsize=8288 ok=1
+Cmd: disassembleShader
+  api=5 insize=7790 outsize=7790 ok=1
+Cmd: disassembleShader
+  api=9 insize=8343 outsize=8343 ok=1
+Cmd: disassembleShader
+  api=5 insize=7739 outsize=7739 ok=1
+Cmd: disassembleShader
+  api=9 insize=8253 outsize=8253 ok=1
+Cmd: disassembleShader
+  api=5 insize=6610 outsize=6610 ok=1
+Cmd: disassembleShader
+  api=9 insize=9559 outsize=9559 ok=1
+Cmd: disassembleShader
+  api=5 insize=8942 outsize=8942 ok=1
+Cmd: disassembleShader
+  api=9 insize=9683 outsize=9683 ok=1
+Cmd: disassembleShader
+  api=5 insize=8863 outsize=8863 ok=1
+Cmd: disassembleShader
+  api=9 insize=9549 outsize=9549 ok=1
+Cmd: disassembleShader
+  api=5 insize=10300 outsize=10300 ok=1
+Cmd: disassembleShader
+  api=9 insize=11141 outsize=11141 ok=1
+Cmd: disassembleShader
+  api=5 insize=10361 outsize=10361 ok=1
+Cmd: disassembleShader
+  api=9 insize=11214 outsize=11214 ok=1
+Cmd: disassembleShader
+  api=9 insize=8989 outsize=8989 ok=1
+Cmd: disassembleShader
+  api=9 insize=11061 outsize=11061 ok=1
+Cmd: disassembleShader
+  api=5 insize=6327 outsize=6327 ok=1
+Cmd: disassembleShader
+  api=5 insize=5802 outsize=5802 ok=1
+Cmd: disassembleShader
+  api=5 insize=6353 outsize=6353 ok=1
+Cmd: disassembleShader
+  api=9 insize=6816 outsize=6816 ok=1
+Cmd: disassembleShader
+  api=5 insize=6306 outsize=6306 ok=1
+Cmd: disassembleShader
+  api=9 insize=6692 outsize=6692 ok=1
+Cmd: disassembleShader
+  api=5 insize=9587 outsize=9587 ok=1
+Cmd: disassembleShader
+  api=9 insize=9579 outsize=9579 ok=1
+Cmd: disassembleShader
+  api=5 insize=9617 outsize=9617 ok=1
+Cmd: disassembleShader
+  api=9 insize=9634 outsize=9634 ok=1
+Cmd: disassembleShader
+  api=5 insize=9566 outsize=9566 ok=1
+Cmd: disassembleShader
+  api=9 insize=9544 outsize=9544 ok=1
+Cmd: disassembleShader
+  api=5 insize=8884 outsize=8884 ok=1
+Cmd: disassembleShader
+  api=9 insize=9559 outsize=9559 ok=1
+Cmd: disassembleShader
+  api=5 insize=8942 outsize=8942 ok=1
+Cmd: disassembleShader
+  api=9 insize=9683 outsize=9683 ok=1
+Cmd: disassembleShader
+  api=5 insize=8863 outsize=8863 ok=1
+Cmd: disassembleShader
+  api=9 insize=9549 outsize=9549 ok=1
+Cmd: disassembleShader
+  api=5 insize=12231 outsize=12231 ok=1
+Cmd: disassembleShader
+  api=9 insize=12703 outsize=12703 ok=1
+Cmd: disassembleShader
+  api=5 insize=12292 outsize=12292 ok=1
+Cmd: disassembleShader
+  api=9 insize=12776 outsize=12776 ok=1
+Cmd: disassembleShader
+  api=9 insize=10280 outsize=10280 ok=1
+Cmd: disassembleShader
+  api=5 insize=5784 outsize=5784 ok=1
+Cmd: disassembleShader
+  api=5 insize=6327 outsize=6327 ok=1
+Cmd: disassembleShader
+  api=9 insize=6729 outsize=6729 ok=1
+Cmd: disassembleShader
+  api=5 insize=6353 outsize=6353 ok=1
+Cmd: disassembleShader
+  api=9 insize=6816 outsize=6816 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=4675 outsize=4675 ok=1
+Cmd: disassembleShader
+  api=9 insize=5683 outsize=5683 ok=1
+Cmd: disassembleShader
+  api=5 insize=4805 outsize=4805 ok=1
+Cmd: disassembleShader
+  api=9 insize=4956 outsize=4956 ok=1
+Cmd: disassembleShader
+  api=5 insize=4823 outsize=4823 ok=1
+Cmd: disassembleShader
+  api=9 insize=5036 outsize=5036 ok=1
+Cmd: disassembleShader
+  api=5 insize=4784 outsize=4784 ok=1
+Cmd: disassembleShader
+  api=9 insize=4943 outsize=4943 ok=1
+Cmd: disassembleShader
+  api=9 insize=5886 outsize=5886 ok=1
+Cmd: disassembleShader
+  api=5 insize=4878 outsize=4878 ok=1
+Cmd: disassembleShader
+  api=5 insize=5866 outsize=5866 ok=1
+Cmd: disassembleShader
+  api=9 insize=6150 outsize=6150 ok=1
+Cmd: disassembleShader
+  api=5 insize=5827 outsize=5827 ok=1
+Cmd: disassembleShader
+  api=9 insize=6082 outsize=6082 ok=1
+Cmd: disassembleShader
+  api=9 insize=5617 outsize=5617 ok=1
+Cmd: disassembleShader
+  api=9 insize=5849 outsize=5849 ok=1
+Cmd: disassembleShader
+  api=9 insize=5697 outsize=5697 ok=1
+Cmd: disassembleShader
+  api=5 insize=4569 outsize=4569 ok=1
+Cmd: disassembleShader
+  api=9 insize=5604 outsize=5604 ok=1
+Cmd: disassembleShader
+  api=9 insize=5836 outsize=5836 ok=1
+Cmd: disassembleShader
+  api=5 insize=5253 outsize=5253 ok=1
+Cmd: disassembleShader
+  api=9 insize=5511 outsize=5511 ok=1
+Cmd: disassembleShader
+  api=5 insize=5271 outsize=5271 ok=1
+Cmd: disassembleShader
+  api=9 insize=5566 outsize=5566 ok=1
+Cmd: disassembleShader
+  api=5 insize=5232 outsize=5232 ok=1
+Cmd: disassembleShader
+  api=9 insize=5498 outsize=5498 ok=1
+Cmd: disassembleShader
+  api=5 insize=6740 outsize=6740 ok=1
+Cmd: disassembleShader
+  api=9 insize=7081 outsize=7081 ok=1
+Cmd: disassembleShader
+  api=5 insize=6827 outsize=6827 ok=1
+Cmd: disassembleShader
+  api=9 insize=7161 outsize=7161 ok=1
+Cmd: disassembleShader
+  api=5 insize=6719 outsize=6719 ok=1
+Cmd: disassembleShader
+  api=9 insize=7068 outsize=7068 ok=1
+Cmd: disassembleShader
+  api=5 insize=6801 outsize=6801 ok=1
+Cmd: disassembleShader
+  api=5 insize=4799 outsize=4799 ok=1
+Cmd: disassembleShader
+  api=5 insize=6914 outsize=6914 ok=1
+Cmd: disassembleShader
+  api=9 insize=7781 outsize=7781 ok=1
+Cmd: disassembleShader
+  api=5 insize=6780 outsize=6780 ok=1
+Cmd: disassembleShader
+  api=9 insize=7629 outsize=7629 ok=1
+Cmd: disassembleShader
+  api=5 insize=7199 outsize=7199 ok=1
+Cmd: disassembleShader
+  api=9 insize=8157 outsize=8157 ok=1
+Cmd: disassembleShader
+  api=5 insize=7312 outsize=7312 ok=1
+Cmd: disassembleShader
+  api=9 insize=8282 outsize=8282 ok=1
+Cmd: disassembleShader
+  api=9 insize=6238 outsize=6238 ok=1
+Cmd: disassembleShader
+  api=5 insize=5734 outsize=5734 ok=1
+Cmd: disassembleShader
+  api=9 insize=6468 outsize=6468 ok=1
+Cmd: disassembleShader
+  api=9 insize=6673 outsize=6673 ok=1
+Cmd: disassembleShader
+  api=9 insize=6522 outsize=6522 ok=1
+Cmd: disassembleShader
+  api=9 insize=6765 outsize=6765 ok=1
+Cmd: disassembleShader
+  api=9 insize=6474 outsize=6474 ok=1
+Cmd: disassembleShader
+  api=5 insize=5662 outsize=5662 ok=1
+Cmd: disassembleShader
+  api=5 insize=6736 outsize=6736 ok=1
+Cmd: disassembleShader
+  api=5 insize=5732 outsize=5732 ok=1
+Cmd: disassembleShader
+  api=9 insize=6675 outsize=6675 ok=1
+Cmd: disassembleShader
+  api=9 insize=6906 outsize=6906 ok=1
+Cmd: disassembleShader
+  api=5 insize=6715 outsize=6715 ok=1
+Cmd: disassembleShader
+  api=9 insize=6813 outsize=6813 ok=1
+Cmd: disassembleShader
+  api=9 insize=5464 outsize=5464 ok=1
+Cmd: disassembleShader
+  api=5 insize=4714 outsize=4714 ok=1
+Cmd: disassembleShader
+  api=9 insize=5544 outsize=5544 ok=1
+Cmd: disassembleShader
+  api=9 insize=5751 outsize=5751 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=1400 outsize=1400 ok=1
+Cmd: disassembleShader
+  api=9 insize=2606 outsize=2606 ok=1
+Cmd: disassembleShader
+  api=5 insize=973 outsize=973 ok=1
+Cmd: disassembleShader
+  api=9 insize=2379 outsize=2379 ok=1
+Cmd: disassembleShader
+  api=5 insize=1305 outsize=1305 ok=1
+Cmd: disassembleShader
+  api=9 insize=2838 outsize=2838 ok=1
+Cmd: disassembleShader
+  api=5 insize=973 outsize=973 ok=1
+Cmd: disassembleShader
+  api=9 insize=2379 outsize=2379 ok=1
+Cmd: disassembleShader
+  api=5 insize=1400 outsize=1400 ok=1
+Cmd: disassembleShader
+  api=9 insize=2606 outsize=2606 ok=1
+Cmd: disassembleShader
+  api=5 insize=1732 outsize=1732 ok=1
+Cmd: disassembleShader
+  api=9 insize=3065 outsize=3065 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=5 insize=0 outsize=57 ok=1
+Cmd: disassembleShader
+  api=9 insize=0 outsize=57 ok=1
