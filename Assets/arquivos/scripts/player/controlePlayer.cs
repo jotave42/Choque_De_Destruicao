@@ -8,23 +8,36 @@ public class controlePlayer : MonoBehaviour
 	public int dinheiro = 0;
 	public GameObject BarraVida;
 	public GameObject placar;
-	public float VelMax;
+	public float turbo=1f;
 	public float Velocidade;
 	public float VelocidadeRotacao;
 	float rotx;
+	public bool EmTurb;
 
 	// Use this for initialization
 	void Start ()
 	{
+		EmTurb = false;
 		rotx = 0;
 		MudaPontos (pontos);
 		MudaVida (vida);
 	}
 	public void MudaVelMax(float max)
 	{
-		VelMax += max;
+		if (!EmTurb) 
+		{
+			turbo += max;
+			EmTurb = true;
+			StartCoroutine (DesativaTurbo ());
+		}
 	}
+	IEnumerator DesativaTurbo()
+	{
 
+		yield return new WaitForSeconds(5);
+		turbo=1f;
+		EmTurb = false;
+	}
 	public void MudaVida(float NovaVida)
 	{	
 		vida += NovaVida;
@@ -47,7 +60,7 @@ public class controlePlayer : MonoBehaviour
 	// Update is called once per frame
 	void Update () 
 	{
-		gameObject.transform.Translate (0, 0, /*Input.GetAxis("Vertical")*/1 *Velocidade*Time.deltaTime);
+		gameObject.transform.Translate (0, 0, Input.GetAxis("Vertical")/*1*/ *Velocidade*turbo*Time.deltaTime);
 		//GetComponent<Rigidbody>().AddForce (transform.forward * 20 * Input.GetAxis ("Vertical"), ForceMode.Acceleration); new eeeeee
 		rotx+=Input.GetAxis("Horizontal")*Velocidade*VelocidadeRotacao*Time.deltaTime;
 		gameObject.transform.rotation= Quaternion.Euler(0,rotx,0);

@@ -12,6 +12,7 @@ TagManager:
   - boost
   - parede
   - canto
+  - chao
   layers:
   - Default
   - TransparentFX
@@ -21,10 +22,10 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
+  - paredes
+  - player
+  - objetos
+  - inimigos
   - 
   - 
   - 

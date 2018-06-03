@@ -26,7 +26,7 @@ public class colidir : MonoBehaviour
 	}
 	void SetaBoost()
 	{
-		boost = Random.Range (0.1f, 2.0f);
+		boost = Random.Range (0.1f, 1.0f);
 	}
 	void Start () 
 	{

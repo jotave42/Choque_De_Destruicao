@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 using System.Collections.Generic;
-
+using UnityEngine.AI;
 public class Spawnar : MonoBehaviour
 {
 	public GameObject[] Objetos= new GameObject[5];
@@ -16,28 +16,27 @@ public class Spawnar : MonoBehaviour
 		{
 			Random.seed= System.DateTime.Now.Millisecond;
 			int sorteado = Random.Range (0, Objetos.Length);
-			GameObject NovoObjeto = Instantiate (Objetos [5]) as GameObject;
+			GameObject NovoObjeto = Instantiate (Objetos [sorteado]) as GameObject;
 			print (NovoObjeto.name);
 			print (NovoObjeto.transform.lossyScale);
-			NovoObjeto.transform.SetParent (gameObject.transform);
+			//NovoObjeto.transform.SetParent (gameObject.transform);
 			Vector3 posicao;
 			do 
 			{
-				float x =Random.Range(-500f,500f);
-				x=x/1000;
-				float y =NovoObjeto.transform.localPosition.y;
-				float z =Random.Range(-500f,500f);
-				z=z/1000;
+				Random.seed= System.DateTime.Now.Millisecond;
+				float x =Random.Range(-13.0f,13.0f) + transform.position.x;
+				float y =NovoObjeto.transform.position.y;
+				float z =Random.Range(-13.0f,13.0f) + transform.position.z;
 				posicao=new Vector3(x,y,z);
 			} while(posiscoes.Contains(posicao));
 			posiscoes.Add (posicao);
-			print (NovoObjeto.transform.lossyScale);
-			NovoObjeto.transform.localPosition = posicao;
+			NovoObjeto.transform.position = posicao;
 			NovoObjeto.name= NovoObjeto.name.Replace ("(Clone)", "");
-			print (NovoObjeto.transform.localPosition);
-			print (NovoObjeto.transform.parent.name);
-		
 		}
 	}
+    public void GeraNavMesh()
+    {
+        GetComponent<NavMeshSurface>().BuildNavMesh();
+    }
 }
 
