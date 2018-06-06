@@ -23,6 +23,7 @@ GameObject:
   - component: {fileID: 23306996051213606}
   - component: {fileID: 135155309681624744}
   - component: {fileID: 114857555973840152}
+  - component: {fileID: 114603712526545838}
   m_Layer: 10
   m_Name: vida
   m_TagString: vida
@@ -85,6 +86,17 @@ MeshFilter:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1291955058730500}
   m_Mesh: {fileID: 4300000, guid: 79934529597570e4ba40bcfb0adf5bef, type: 3}
+--- !u!114 &114603712526545838
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1291955058730500}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a20ad701ab8204d45b122d0aaf312119, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!114 &114857555973840152
 MonoBehaviour:
   m_ObjectHideFlags: 1

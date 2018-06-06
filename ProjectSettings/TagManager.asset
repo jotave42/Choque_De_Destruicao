@@ -13,6 +13,8 @@ TagManager:
   - parede
   - canto
   - chao
+  - deleta
+  - parachoque
   layers:
   - Default
   - TransparentFX

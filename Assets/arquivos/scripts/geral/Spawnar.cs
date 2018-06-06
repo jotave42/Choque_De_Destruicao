@@ -5,12 +5,11 @@ using UnityEngine.AI;
 public class Spawnar : MonoBehaviour
 {
 	public GameObject[] Objetos= new GameObject[5];
-	// Use this for initialization
-
+    // Use this for initialization
+    public GameObject inimigo;
 	public void Spawna(int cota)
 	{
-
-		print (cota);
+        
 		List<Vector3> posiscoes = new List<Vector3> ();
 		for (int i = 0; i <cota; i++) 
 		{
@@ -33,7 +32,26 @@ public class Spawnar : MonoBehaviour
 			NovoObjeto.transform.position = posicao;
 			NovoObjeto.name= NovoObjeto.name.Replace ("(Clone)", "");
 		}
-	}
+        GeraNavMesh();
+        int meiaCota =(int) cota / 2;
+        for (int i = 0; i < meiaCota / 2; i++)
+        {
+            GameObject NovoInimigo = Instantiate(inimigo);
+            Vector3 posicao;
+            float y = NovoInimigo.transform.position.y;
+            do
+            {
+                Random.seed = System.DateTime.Now.Millisecond;
+                float x = Random.Range(-13.0f, 13.0f) + transform.position.x;
+                float z = Random.Range(-13.0f, 13.0f) + transform.position.z;
+                posicao = new Vector3(x, y, z);
+            } while (posiscoes.Contains(posicao));
+            posiscoes.Add(posicao);
+            NovoInimigo.transform.position = posicao;
+            NovoInimigo.name = NovoInimigo.name.Replace("(Clone)", "");
+
+        }
+    }
     public void GeraNavMesh()
     {
         GetComponent<NavMeshSurface>().BuildNavMesh();

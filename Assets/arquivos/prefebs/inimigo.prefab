@@ -40,6 +40,7 @@ GameObject:
   - component: {fileID: 114274020961586982}
   - component: {fileID: 195482773462765900}
   - component: {fileID: 114674825134770570}
+  - component: {fileID: 114395780032279342}
   m_Layer: 11
   m_Name: inimigo
   m_TagString: inimigo
@@ -67,7 +68,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1508448230154732}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -2.177, y: 0.216, z: -8.750007}
+  m_LocalPosition: {x: -2.177, y: 0.216, z: -9.47}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 4627145180602044}
@@ -143,6 +144,17 @@ MonoBehaviour:
   pontos: 0
   dinheiro: 0
   boost: 0
+--- !u!114 &114395780032279342
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1508448230154732}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a20ad701ab8204d45b122d0aaf312119, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!114 &114674825134770570
 MonoBehaviour:
   m_ObjectHideFlags: 1

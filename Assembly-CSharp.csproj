@@ -68,7 +68,10 @@
     <Compile Include="Assets\arquivos\scripts\player\controlePlayer.cs" />
     <Compile Include="Assets\arquivos\scripts\ui objects\atualizaPlacar.cs" />
     <Compile Include="Assets\arquivos\scripts\ui objects\atualizaVida.cs" />
+    <Compile Include="Assets\deleta.cs" />
     <Compile Include="Assets\Geranavmach.cs" />
+    <Compile Include="Assets\InfinitoMapa.cs" />
+    <Compile Include="Assets\vizinhos.cs" />
     <None Include="Assets\arquivos\importados\fonte\LICENSE.txt" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>C:/unity/Choque_De_Demolicao/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>

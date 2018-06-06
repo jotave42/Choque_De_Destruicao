@@ -54,7 +54,6 @@ public class controlePlayer : MonoBehaviour
 	}
 	public void MudaDinheiro(int NovoDinerio)
 	{
-		//pontos = +NovosPontos;
 		dinheiro+=NovoDinerio;
 	}
 	// Update is called once per frame

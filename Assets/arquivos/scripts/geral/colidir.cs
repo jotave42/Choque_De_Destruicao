@@ -88,7 +88,9 @@ public class colidir : MonoBehaviour
 			} 
 			else if (this.gameObject.CompareTag ("boost")) 
 			{
-				MandaBoost (other);
+                SetaBoost();
+
+                MandaBoost (other);
 			}
 			else if (this.gameObject.CompareTag ("caixa")) 
 			{

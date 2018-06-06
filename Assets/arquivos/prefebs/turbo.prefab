@@ -23,6 +23,7 @@ GameObject:
   - component: {fileID: 135330783624947860}
   - component: {fileID: 23983622402609544}
   - component: {fileID: 114375555606424912}
+  - component: {fileID: 114927507691629226}
   m_Layer: 10
   m_Name: turbo
   m_TagString: boost
@@ -37,7 +38,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1261503634354186}
   m_LocalRotation: {x: 0.4544462, y: -0, z: -0, w: 0.89077425}
-  m_LocalPosition: {x: 0.066091, y: 0.51, z: -6.4}
+  m_LocalPosition: {x: 0.066091, y: 0.51, z: -5.35}
   m_LocalScale: {x: 0.509321, y: 0.5093209, z: 0.5093209}
   m_Children: []
   m_Father: {fileID: 0}
@@ -100,6 +101,17 @@ MonoBehaviour:
   pontos: 0
   dinheiro: 0
   boost: 0
+--- !u!114 &114927507691629226
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1261503634354186}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a20ad701ab8204d45b122d0aaf312119, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!135 &135330783624947860
 SphereCollider:
   m_ObjectHideFlags: 1

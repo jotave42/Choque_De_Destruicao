@@ -21,6 +21,7 @@ GameObject:
   - component: {fileID: 4162512857482254}
   - component: {fileID: 64303559121914138}
   - component: {fileID: 208728729370942084}
+  - component: {fileID: 114818147150174368}
   m_Layer: 0
   m_Name: rampa
   m_TagString: Untagged
@@ -129,6 +130,17 @@ MeshCollider:
   m_CookingOptions: 14
   m_SkinWidth: 0.01
   m_Mesh: {fileID: 4300000, guid: 08b7f74707da3c6419424f80b5317292, type: 3}
+--- !u!114 &114818147150174368
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1297834563897358}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a20ad701ab8204d45b122d0aaf312119, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!208 &208728729370942084
 NavMeshObstacle:
   m_ObjectHideFlags: 1
