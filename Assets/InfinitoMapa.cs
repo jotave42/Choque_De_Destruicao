@@ -72,11 +72,15 @@ public class InfinitoMapa : MonoBehaviour {
                 return;//sai se deu ruim
         }
         NovoChao = GameObject.Instantiate(chao);
+        NovoChao.GetComponent<Spawnar>().GeraNavMesh();
         NovoChao.transform.position = vizPos;
         Random.seed = System.DateTime.Now.Millisecond;
         int NumeroItens = Random.Range(0, 11);
         NovoChao.name = NovoChao.name.Replace("(Clone)", "");
         NovoChao.GetComponent<Spawnar>().Spawna(NumeroItens);
+
+        int meio =(int) NumeroItens / 2;
+        NovoChao.GetComponent<Spawnar>().SpawnaInimigo(meio);
     }
     void OnTriggerEnter(Collider other)
     {
@@ -102,9 +106,9 @@ public class InfinitoMapa : MonoBehaviour {
                     }
                     else if ((gameObject.name.CompareTo("p4") == 0)|| (gameObject.name.CompareTo("p5") == 0))
                     {
-                            criaChao(transform.parent, 4);
-                            criaChao(transform.parent, 7);
-                            criaChao(transform.parent, 6);
+                        criaChao(transform.parent, 4);
+                        criaChao(transform.parent, 7);
+                        criaChao(transform.parent, 6);
                     }
                    
                     else if ((gameObject.name.CompareTo("p6") == 0) || (gameObject.name.CompareTo("p7") == 0))

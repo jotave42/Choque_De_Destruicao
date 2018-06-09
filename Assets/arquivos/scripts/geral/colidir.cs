@@ -63,9 +63,18 @@ public class colidir : MonoBehaviour
 
 	void OnTriggerEnter(Collider other)
 	{
-		if(other.gameObject.CompareTag("Player"))
+		if((other.gameObject.CompareTag("Player")) || (other.gameObject.CompareTag("parachoque")))
 		{
 			Random.seed= System.DateTime.Now.Millisecond;
+            bool parachoque = false;
+            if (other.gameObject.CompareTag("parachoque"))
+            { 
+                parachoque = true;
+                print(other.gameObject.tag);
+                other = other.transform.parent.GetComponent<Collider>();
+                print(other.gameObject.tag);
+            }
+
 			if ((this.gameObject.CompareTag ("vida")))
 			{
 				SetaVida (false);
@@ -74,7 +83,13 @@ public class colidir : MonoBehaviour
 			else if (this.gameObject.CompareTag ("inimigo")) 
 			{
 				SetaVida (true);
-				MandaVida (other);
+                if(parachoque)
+                {
+                    SetaPontos();
+                    MandaPontos(other);
+                }
+                else
+				    MandaVida (other);
 			} 
 			else if (this.gameObject.CompareTag ("pontos")) 
 			{
