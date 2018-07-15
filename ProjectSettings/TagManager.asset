@@ -15,6 +15,9 @@ TagManager:
   - chao
   - deleta
   - parachoque
+  - spawn
+  - MenuScript
+  - controle
   layers:
   - Default
   - TransparentFX

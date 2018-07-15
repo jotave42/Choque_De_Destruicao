@@ -5,8 +5,6 @@ using UnityEngine;
 public class deleta : MonoBehaviour
 {
 
-
-
     // Update is called once per frame
     void OnTriggerEnter(Collider other)
     {

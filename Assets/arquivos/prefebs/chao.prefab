@@ -66,7 +66,6 @@ GameObject:
   - component: {fileID: 114244572175389514}
   - component: {fileID: 114465420722748484}
   - component: {fileID: 114941705581193016}
-  - component: {fileID: 114495004537154214}
   - component: {fileID: 114549645467618782}
   - component: {fileID: 114326996834172036}
   - component: {fileID: 114207246359575834}
@@ -77,7 +76,6 @@ GameObject:
   - component: {fileID: 114020951274008098}
   - component: {fileID: 114000916876896216}
   - component: {fileID: 114979736067444352}
-  - component: {fileID: 114115473360753786}
   - component: {fileID: 114476215187355908}
   m_Layer: 0
   m_Name: chao
@@ -988,19 +986,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   chao: {fileID: 1344310235113364}
   largura: 26
---- !u!114 &114115473360753786
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1344310235113364}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c90e8a460c7513e4fb18b2e851ae5014, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  chao: {fileID: 0}
-  largura: 26
 --- !u!114 &114175426390499516
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -1174,32 +1159,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a20ad701ab8204d45b122d0aaf312119, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &114495004537154214
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1344310235113364}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b36dcf8f9965bf5449eab94cb2d812a4, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  lin1: 000000000000000000000000
-  lin2: 000000000000000000000000
-  lin3: 000000000000000000000000
-  vizTran1:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  vizTran2:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  vizTran3:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
 --- !u!114 &114545942756306232
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -1245,12 +1204,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Objetos:
   - {fileID: 1055436469166016, guid: a81a68b952d30484d97a9cd178d7a402, type: 2}
-  - {fileID: 1720556745473734, guid: d09c3025726110f4e8dee7d0c79fe2fd, type: 2}
-  - {fileID: 1253448829374742, guid: ebd1c52105e30ae4a80219b3ffac4136, type: 2}
+  - {fileID: 1934420720708664, guid: 5796d41800e8d064da28ca4e94c365ad, type: 2}
+  - {fileID: 1325044556046264, guid: 61d5e24a124babf47b735753f0691e10, type: 2}
   - {fileID: 1297834563897358, guid: 74c99ccdb5bb2ae4ba69a259de53d959, type: 2}
-  - {fileID: 1261503634354186, guid: c0486a12525c36a49b16965d7c2ad95b, type: 2}
-  - {fileID: 1291955058730500, guid: f94610d3446bd90478ff00aba520bb84, type: 2}
-  inimigo: {fileID: 1508448230154732, guid: eddcb70ebc54ffe4c858cb0a9032b793, type: 2}
+  - {fileID: 1672924783403430, guid: 5b743c9a9e742124381d3670ad0dd75f, type: 2}
+  inimigos:
+  - {fileID: 1646981259178978, guid: 1eb894c97da32c940a90228cac9bea1c, type: 2}
+  - {fileID: 1646981259178978, guid: 388d83314c9e51c40956fb6908979eee, type: 2}
+  - {fileID: 1646981259178978, guid: 6d56b50e711a5204d9059e0c99b70eda, type: 2}
+  - {fileID: 1646981259178978, guid: 558e73634b44f39458a7ea4a8a56976a, type: 2}
 --- !u!114 &114595321143828902
 MonoBehaviour:
   m_ObjectHideFlags: 1

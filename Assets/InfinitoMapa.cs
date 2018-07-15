@@ -74,18 +74,18 @@ public class InfinitoMapa : MonoBehaviour {
         NovoChao = GameObject.Instantiate(chao);
         NovoChao.GetComponent<Spawnar>().GeraNavMesh();
         NovoChao.transform.position = vizPos;
-        Random.seed = System.DateTime.Now.Millisecond;
+        Random.InitState(System.DateTime.Now.Millisecond);
         int NumeroItens = Random.Range(0, 11);
         NovoChao.name = NovoChao.name.Replace("(Clone)", "");
         NovoChao.GetComponent<Spawnar>().Spawna(NumeroItens);
-
-        int meio =(int) NumeroItens / 2;
+        int limite = GameObject.FindGameObjectWithTag("controle").GetComponent<CriaInimigos>().limite;
+        int meio = Random.Range(1+limite, 5+limite);
         NovoChao.GetComponent<Spawnar>().SpawnaInimigo(meio);
     }
     void OnTriggerEnter(Collider other)
     {
         
-            if (other.CompareTag("Player"))
+            if ((other.CompareTag("Player"))|| (other.CompareTag("spawn")))
             {
 
                 if (gameObject.CompareTag("parede"))

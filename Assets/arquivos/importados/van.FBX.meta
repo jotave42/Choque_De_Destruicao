@@ -1,0 +1,177 @@
+fileFormatVersion: 2
+guid: 2c4291bee907353428484f596ca3576a
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: CargoVan2_HN
+    100002: Fbx_Root
+    100004: Non_subD
+    100006: Non_subD.1
+    100008: Non_subD.2
+    100010: Non_subD.3
+    100012: subD
+    100014: subD.1.3
+    100016: subD_1
+    100018: subD_1_1
+    100020: subD_1_2
+    100022: subD_2
+    100024: subD_3
+    100026: subD_4
+    100028: subD_RAD_H
+    100030: subD_RAD_VL
+    100032: subD_RAD_VR
+    100034: //RootNode
+    400000: CargoVan2_HN
+    400002: Fbx_Root
+    400004: Non_subD
+    400006: Non_subD.1
+    400008: Non_subD.2
+    400010: Non_subD.3
+    400012: subD
+    400014: subD.1.3
+    400016: subD_1
+    400018: subD_1_1
+    400020: subD_1_2
+    400022: subD_2
+    400024: subD_3
+    400026: subD_4
+    400028: subD_RAD_H
+    400030: subD_RAD_VL
+    400032: subD_RAD_VR
+    400034: //RootNode
+    2100000: Bus-shield
+    2100002: Bus-glass
+    2100004: Bus-rubber
+    2100006: Bus-black
+    2100008: Bus-body
+    2100010: bus-orange
+    2100012: bus-chrome
+    2100014: bus-red 1
+    2100016: Bus-fl-frame
+    2100018: Bus-fl-mirror
+    2100020: Bus-fl-glass
+    2100022: Bus-fl-bulb
+    2100024: Bus-mirror
+    2100026: Bus-fl-glass_bus-red 1_tEX
+    2100028: Bus-glass black
+    2100030: Bus-inside
+    2100032: Bus-alu
+    2100034: Bus-tire
+    2100036: Bus-red
+    2300000: Non_subD
+    2300002: Non_subD.1
+    2300004: Non_subD.2
+    2300006: Non_subD.3
+    2300008: subD
+    2300010: subD.1.3
+    2300012: subD_1
+    2300014: subD_1_1
+    2300016: subD_1_2
+    2300018: subD_2
+    2300020: subD_3
+    2300022: subD_4
+    3300000: Non_subD
+    3300002: Non_subD.1
+    3300004: Non_subD.2
+    3300006: Non_subD.3
+    3300008: subD
+    3300010: subD.1.3
+    3300012: subD_1
+    3300014: subD_1_1
+    3300016: subD_1_2
+    3300018: subD_2
+    3300020: subD_3
+    3300022: subD_4
+    4300000: subD
+    4300002: subD_1
+    4300004: subD_2
+    4300006: subD_3
+    4300008: subD_4
+    4300010: subD_1_1
+    4300012: Non_subD
+    4300014: subD_1_2
+    4300016: Non_subD.2
+    4300018: subD.1.3
+    4300020: Non_subD.3
+    4300022: Non_subD.1
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

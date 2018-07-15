@@ -1,6 +1,6 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\arquivos\scripts\geral\MapaInfinito.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Geranavmach.cs">
     <Files>
       <File FileName="Assets\arquivos\scripts\ui objects\atualizaPlacar.cs" Line="1" Column="1" />
       <File FileName="Assets\arquivos\scripts\geral\colidir.cs" Line="1" Column="1" />
@@ -8,6 +8,7 @@
       <File FileName="Assets\arquivos\scripts\geral\MapaInfinito.cs" Line="12" Column="1" />
       <File FileName="Assets\arquivos\scripts\geral\Spawnar.cs" Line="1" Column="1" />
       <File FileName="Assets\arquivos\scripts\inimigo\ControleInimigo.cs" Line="1" Column="1" />
+      <File FileName="Assets\Geranavmach.cs" Line="10" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

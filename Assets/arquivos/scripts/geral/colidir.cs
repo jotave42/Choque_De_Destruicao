@@ -8,13 +8,15 @@ public class colidir : MonoBehaviour
 	public int pontos;
 	public int dinheiro;
 	public float boost;
+    public AudioSource cam;
+   // public AudioClip batida;
 	// Use this for initialization
 	void SetaVida(bool inimigo)
 	{
 		if(inimigo)
-			vida = Random.Range (-20.0f, -1.0f);
+			vida = Random.Range (-20.0f, -10.0f);
 		else
-			vida = Random.Range (20.0f, 100f);
+			vida = Random.Range (20.0f, 60f);
 	}
 	void SetaPontos()
 	{
@@ -30,10 +32,11 @@ public class colidir : MonoBehaviour
 	}
 	void Start () 
 	{
+        cam = GameObject.FindGameObjectWithTag("MainCamera").GetComponent<AudioSource>();
 		if (this.gameObject.CompareTag ("caixa")) 
 		{
-			Random.seed= System.DateTime.Now.Millisecond;
-			SetaVida (false);
+            Random.InitState(System.DateTime.Now.Millisecond);
+            SetaVida(false);
 			SetaPontos();
 			SetaDinheito ();
 			SetaBoost ();
@@ -65,14 +68,12 @@ public class colidir : MonoBehaviour
 	{
 		if((other.gameObject.CompareTag("Player")) || (other.gameObject.CompareTag("parachoque")))
 		{
-			Random.seed= System.DateTime.Now.Millisecond;
+            Random.InitState(System.DateTime.Now.Millisecond);
             bool parachoque = false;
             if (other.gameObject.CompareTag("parachoque"))
             { 
                 parachoque = true;
-                print(other.gameObject.tag);
                 other = other.transform.parent.GetComponent<Collider>();
-                print(other.gameObject.tag);
             }
 
 			if ((this.gameObject.CompareTag ("vida")))
@@ -82,6 +83,7 @@ public class colidir : MonoBehaviour
 			} 
 			else if (this.gameObject.CompareTag ("inimigo")) 
 			{
+                cam.Play();
 				SetaVida (true);
                 if(parachoque)
                 {
